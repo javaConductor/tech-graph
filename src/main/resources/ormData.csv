@@ -1,0 +1,6 @@
+Type | Name              |Description
+ORM  | Hibernate         | ORM for JVM languages
+ORM  | MyBatis           | ORM for JVM languages
+ORM  | Spring Data Mongo | ORM for JVM languages using Mongo DB
+ORM  | Spring Data Neo4j | ORM for JVM languages using Neo4j
+

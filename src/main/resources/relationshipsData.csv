@@ -1,0 +1,15 @@
+
+Java -> ORM_FOR_LANGUAGE -> Hibernate
+Java -> ORM_FOR_LANGUAGE -> MyBatis
+Java -> ORM_FOR_LANGUAGE -> Spring Data Mongo
+Java -> ORM_FOR_LANGUAGE -> Spring Data Neo4j
+Scala -> ORM_FOR_LANGUAGE -> Slick
+Groovy -> ORM_FOR_LANGUAGE -> GORM
+
+
+
+Type | Name              |Description
+ORM  | Hibernate         | ORM for JVM languages
+ORM  | MyBatis           | ORM for JVM languages
+ORM  | Spring Data Mongo | ORM for JVM languages using Mongo DB
+ORM  | Spring Data Neo4j | ORM for JVM languages using Neo4j
